@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+    color:white;
+}
+div{
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;   
+}
+.heading{
+    margin-top: 1px;
+}
+.quote{
+    margin-top:2px;
+}
